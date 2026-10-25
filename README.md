@@ -34,18 +34,45 @@
   <img src="https://streak-stats.demolab.com?user=deepanrajmanikandan&theme=tokyonight" height="165" alt="GitHub streak" />
 </p>
 
-## 🔥 Contribution Graph
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanrajmanikandan&theme=tokyo-night" width="100%" alt="Contribution graph" />
-</p>
-
----
+## 💻 Skills
 
 <p align="center">
-  <b>💡 Code • Learn • Build • Repeat</b>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile! ⭐</i>
+  <img src="https://img.shields.io/badge/Data_Structures-Learning-blue?style=flat-square" alt="Data Structures - Learning" />
+  <img src="https://img.shields.io/badge/Problem_Solving-Practicing-green?style=flat-square" alt="Problem Solving - Practicing" />
 </p>
+
+
+## 🏆 LeetCode Progress
+
+<p align="center">
+  <a href="https://leetcode.com/u/Deepanraj03/">
+    <img src="https://leetcard.jacoblin.cool/Deepanraj03?theme=dark&font=Fira%20Code&ext=heatmap" alt="Deepanraj03 LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Deepanraj03/">
+    View My LeetCode Profile ↗
+  </a>
+</p>
+
+<p align="center">
+  💡 Practice daily. Improve continuously. 🚀
+</p>
+
+## 🔥 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/deepanrajmanikandan" alt="GitHub Contribution Graph" width="100%" />
+</p>
+
+<h3 align="center">✨ Thank You for Visiting My Profile! ✨</h3>
+<p align="center">💙 Keep Learning | Keep Building | Keep Growing 🚀</p>
